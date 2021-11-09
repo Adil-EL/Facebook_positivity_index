@@ -1,4 +1,4 @@
-# Facebook_positivity_index
+# Socail_media_positivity_index
 Evrybody is attached in a way or in another to his smart phone and his social media accounts, 
 the content he consums affect directly the user's life.
 Our mood is, to some extent, controlled by what we see, we hear or read. 
